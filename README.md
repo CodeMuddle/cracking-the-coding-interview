@@ -1,7 +1,7 @@
 # cracking-the-coding-interview 
 With custom solutions
 
-A place for problem/solutions as described in cracking the coding interview book
+A place for problem/solutions as described in cracking the coding interview book and additional ones
 ## Contribution
 * You describe the problem
 * You write down your answer in sudo code
